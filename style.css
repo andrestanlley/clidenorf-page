@@ -8,6 +8,7 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
+    overflow-y: hidden;
 }
 
 body{
@@ -20,8 +21,6 @@ body{
 }
 
 .container{
-    overflow-y: hidden;
-    min-width: 450px;
     position: relative;
     width: 90vw;
     height: 90vh;
