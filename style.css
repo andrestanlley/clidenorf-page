@@ -8,7 +8,6 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
     overflow-x: hidden;
-    overflow-y: hidden;
 }
 
 body{
@@ -117,8 +116,9 @@ span a{
     }
 }
 
-@media (max-width: 500px){
-    .texto{
-        padding-top: 20vh;
+@media (max-width: 600px){
+    .container{
+        height: 100vh;
+        width: 100vw;
     }
 }
