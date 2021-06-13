@@ -36,7 +36,7 @@ span a{
     color: white;
     font-size: 0.5rem;
     position: absolute;
-    bottom: 0;
+    bottom: 0vh;
     right: 5vw;
 }
 
